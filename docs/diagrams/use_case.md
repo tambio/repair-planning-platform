@@ -11,7 +11,7 @@ graph LR
     UC2[Create Project]
     UC3[Calculate Cost]
     UC4[View Material List]
-    UC5[Build Schedule with AI]
+    UC5[Build Schedule]
     UC6[View Gantt Chart]
     UC7[View Shopping List]
     UC8[Upload Receipt]
