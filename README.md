@@ -86,7 +86,7 @@ config/ — configuration files
 
 
 ## Links
-- YouTrack:
+- YouTrack: [https://amir-diploma.youtrack.cloud/projects/DIP]
 - Documentation: 
 
 ## How to Run
