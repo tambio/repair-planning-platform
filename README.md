@@ -87,10 +87,7 @@ config/ — configuration files
 
 ## Links
 - YouTrack: [https://amir-diploma.youtrack.cloud/projects/DIP]
-- Documentation: 
+- Figma Prototype:[https://www.figma.com/make/E5jlK9rZ7msbuE8X0X93h8/Renovation-Planning-Platform-UI?t=srXz95ibq5fpk7Ja-20&fullscreen=1]
 
 ## How to Run
 Instructions will be added when the first runnable code is ready.
-
-
-<!-- test commit -->
